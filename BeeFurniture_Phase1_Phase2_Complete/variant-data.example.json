@@ -1,0 +1,15 @@
+{
+  "instructions": "Add only verified Bee Furniture colour options. Each variant image must be a real product photograph. Never use CSS filters or generated recolouring as a substitute.",
+  "products": {
+    "1": {
+      "name": "Cloud L-Shaped Sofa",
+      "variants": [],
+      "arModel": "models/cloud-l-shaped-sofa.glb"
+    },
+    "2": {
+      "name": "Greeno Sofa",
+      "variants": [],
+      "arModel": "models/greeno-sofa.glb"
+    }
+  }
+}
